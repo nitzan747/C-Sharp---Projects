@@ -1,0 +1,10 @@
+C:\Users\Assaf Test PC\Desktop\nitzan\C# updated 2021\B20 Ex03 NitzanRachum 312496425 OryomSmolash 308033018\Garage Logic\bin\Debug\Garage Logic.dll.config
+C:\Users\Assaf Test PC\Desktop\nitzan\C# updated 2021\B20 Ex03 NitzanRachum 312496425 OryomSmolash 308033018\Garage Logic\bin\Debug\Garage Logic.dll
+C:\Users\Assaf Test PC\Desktop\nitzan\C# updated 2021\B20 Ex03 NitzanRachum 312496425 OryomSmolash 308033018\Garage Logic\bin\Debug\Garage Logic.pdb
+C:\Users\Assaf Test PC\Desktop\nitzan\C# updated 2021\B20 Ex03 NitzanRachum 312496425 OryomSmolash 308033018\Garage Logic\obj\Debug\Garage Logic.dll
+C:\Users\Assaf Test PC\Desktop\nitzan\C# updated 2021\B20 Ex03 NitzanRachum 312496425 OryomSmolash 308033018\Garage Logic\obj\Debug\Garage Logic.pdb
+C:\Users\Assaf Test PC\Desktop\Garage Project\Garage Logic\bin\Debug\Garage Logic.dll.config
+C:\Users\Assaf Test PC\Desktop\Garage Project\Garage Logic\bin\Debug\Garage Logic.dll
+C:\Users\Assaf Test PC\Desktop\Garage Project\Garage Logic\bin\Debug\Garage Logic.pdb
+C:\Users\Assaf Test PC\Desktop\Garage Project\Garage Logic\obj\Debug\Garage Logic.dll
+C:\Users\Assaf Test PC\Desktop\Garage Project\Garage Logic\obj\Debug\Garage Logic.pdb
