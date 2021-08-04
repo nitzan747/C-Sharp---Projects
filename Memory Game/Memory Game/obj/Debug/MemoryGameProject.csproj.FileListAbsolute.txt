@@ -1,0 +1,8 @@
+C:\Users\Assaf Test PC\Desktop\my github projects\Memory Game\B20Ex02Nitzan312496425Oryom308033018\obj\Debug\MemoryGameProject.csprojResolveAssemblyReference.cache
+C:\Users\Assaf Test PC\Desktop\my github projects\Memory Game\B20Ex02Nitzan312496425Oryom308033018\bin\Debug\B20Ex02Nitzan312496425Oryom308033018.exe
+C:\Users\Assaf Test PC\Desktop\my github projects\Memory Game\B20Ex02Nitzan312496425Oryom308033018\bin\Debug\B20Ex02Nitzan312496425Oryom308033018.pdb
+C:\Users\Assaf Test PC\Desktop\my github projects\Memory Game\B20Ex02Nitzan312496425Oryom308033018\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\Assaf Test PC\Desktop\my github projects\Memory Game\B20Ex02Nitzan312496425Oryom308033018\obj\Debug\B20Ex02Nitzan312496425Oryom308033018.exe
+C:\Users\Assaf Test PC\Desktop\my github projects\Memory Game\B20Ex02Nitzan312496425Oryom308033018\obj\Debug\B20Ex02Nitzan312496425Oryom308033018.pdb
+C:\Users\Assaf Test PC\Desktop\my github projects\Memory Game\Memory Game\obj\Debug\B20Ex02Nitzan312496425Oryom308033018.exe
+C:\Users\Assaf Test PC\Desktop\my github projects\Memory Game\Memory Game\obj\Debug\B20Ex02Nitzan312496425Oryom308033018.pdb
